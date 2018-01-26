@@ -1,0 +1,14 @@
+{
+    "Keys": ["osm"],
+    "Provider": "osm",
+    "Version": 100,
+    "Experimental": false,
+    "Features": [
+        "OnlineMappingFeature",
+        "OnlineGeocodingFeature",
+        "ReverseGeocodingFeature",
+        "OnlineRoutingFeature",
+        "OnlinePlacesFeature"
+    ]
+}
+
